@@ -1,8 +1,5 @@
 # Wifi Diagnostic tree
 
-# Named Constants
-
-
 # Menu
 
 print('Wifi diagnostics')
